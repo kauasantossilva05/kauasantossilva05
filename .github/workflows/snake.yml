@@ -13,7 +13,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: kauasantossilva05
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=green&color_dots=#000000,#0a0a0a,#1a1a1a,#2a2a2a,#3a3a3a
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
