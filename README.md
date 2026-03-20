@@ -8,6 +8,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauasantossilva05&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauasantossilva05&layout=compact&theme=chartreuse-dark)
 
+![Snake animation](https://github.com/kauasantossilva05/kauasantossilva05/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 ![My Skills](https://skillicons.dev/icons?i=html)
@@ -18,6 +20,7 @@
 
 Sou um desenvolvedor em início de carreira, focado em aprender e evoluir constantemente.  
 Tenho interesse em desenvolvimento Front-End e busco criar interfaces modernas, responsivas e funcionais.
+
 
 ## 🌐 Conecte-se comigo
 
